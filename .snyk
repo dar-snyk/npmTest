@@ -5,18 +5,18 @@ ignore: {}
 patch:
   'npm:hoek:20180212':
     - bassmaster > hoek:
-        patched: '2026-02-09T18:50:29.813Z'
+        patched: '2026-02-10T01:10:32.821Z'
         id: 'npm:hoek:20180212'
         path: bassmaster > hoek
     - falcor-hapi > boom > hoek:
-        patched: '2026-02-09T18:50:29.813Z'
+        patched: '2026-02-10T01:10:32.821Z'
         id: 'npm:hoek:20180212'
         path: falcor-hapi > boom > hoek
     - falcor-hapi > joi > hoek:
-        patched: '2026-02-09T18:50:29.813Z'
+        patched: '2026-02-10T01:10:32.821Z'
         id: 'npm:hoek:20180212'
         path: falcor-hapi > joi > hoek
     - falcor-hapi > joi > topo > hoek:
-        patched: '2026-02-09T18:50:29.813Z'
+        patched: '2026-02-10T01:10:32.821Z'
         id: 'npm:hoek:20180212'
         path: falcor-hapi > joi > topo > hoek
